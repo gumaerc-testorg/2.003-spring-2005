@@ -1,6 +1,9 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Study Materials
+parent_type: CourseSection
 parent_uid: a7a8f9ef-1f9b-6ce1-6418-f519b9fd5b7a
 title: Hardware
 uid: 7772984a-0715-ec47-488a-c34f735f05c9

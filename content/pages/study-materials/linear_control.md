@@ -1,6 +1,9 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Study Materials
+parent_type: CourseSection
 parent_uid: a7a8f9ef-1f9b-6ce1-6418-f519b9fd5b7a
 title: Linearized Control
 uid: 80cbfe73-1932-d102-278f-8a2130fc3b1e
@@ -94,13 +97,13 @@ Control
 
 Now that the system has been linearized, a controller can be applied to it. Various methods can be applied to show that a simple proportional gain controler is insufficient for this system and would not do better than to place both poles on the imaginary axis. Adding a zero to the system through the application of a proportional-differential controller can be shown by the same methods to pull the poles into the left-half plane.
 
-The block diagram below represents the whole system. C1 represents the constant for converting between position and voltage in the position sensor and in the input. The other three blocks, from left to right, are the controller, the current supply and the plant.
+The block diagram below represents the whole system. C{{< sub "1" >}} represents the constant for converting between position and voltage in the position sensor and in the input. The other three blocks, from left to right, are the controller, the current supply and the plant.
 
 ![](/courses/mechanical-engineering/2-003-modeling-dynamics-and-control-i-spring-2005/study-materials/block_full.jpg)
 
 Fig. L3.
 
-For the purposes of examining the behavior of the controlled system, it is useful to consolidate the block diagram before analyzing it. The dynamics of available current controls are sufficiently faster than those of the plant that the block can be treated as a constant multiplier and incorporated into the controller gain. C1 and k2 can be similarly incorporated. The resulting block diagram, with G representing the combination of the constant multipliers, is:
+For the purposes of examining the behavior of the controlled system, it is useful to consolidate the block diagram before analyzing it. The dynamics of available current controls are sufficiently faster than those of the plant that the block can be treated as a constant multiplier and incorporated into the controller gain. C{{< sub "1" >}} and k{{< sub "2" >}} can be similarly incorporated. The resulting block diagram, with G representing the combination of the constant multipliers, is:
 
 ![](/courses/mechanical-engineering/2-003-modeling-dynamics-and-control-i-spring-2005/study-materials/block_simple.jpg)
 
@@ -118,13 +121,13 @@ The mechanical equivalent system to the linearized model is:
 
 Fig. L5.
 
-For G>k1, the system can be seen from the equation or the equivalent model to be stable. Putting the equation into cannonical form,
+For G>k{{< sub "1" >}}, the system can be seen from the equation or the equivalent model to be stable. Putting the equation into cannonical form,
 
 ![](/courses/mechanical-engineering/2-003-modeling-dynamics-and-control-i-spring-2005/study-materials/leq10.jpg)
 
 Eq. L10.
 
-the steady state gain is seen to be K/(K-k1), which approaches unity as K gets large. Note that unlike a traditional second order system, the steady state gain here approaches unity from infinity, rather than from a fraction less than one. This effect is a result of the "negative spring" in the linearized equation of motion (Eq. L6).
+the steady state gain is seen to be K/(K-k{{< sub "1" >}}), which approaches unity as K gets large. Note that unlike a traditional second order system, the steady state gain here approaches unity from infinity, rather than from a fraction less than one. This effect is a result of the "negative spring" in the linearized equation of motion (Eq. L6).
 
 Where steady state performance improves with increasing G, transient performance depends on all of the system's characteristics. Once a value of G is chosen to provide the acceptable steady state performance, however, ![](/courses/mechanical-engineering/2-003-modeling-dynamics-and-control-i-spring-2005/study-materials/taud.jpg) is the only undefined term in the transfer function, and can be solved for to optimize transient performance.
 

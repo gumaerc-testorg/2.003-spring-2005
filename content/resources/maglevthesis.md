@@ -1,8 +1,12 @@
 ---
 content_type: resource
 description: ''
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/2-003-modeling-dynamics-and-control-i-spring-2005/f5e18d0a075bb17a92b4522ea9056780_maglevthesis.pdf
+file: /media/courses/2-003-modeling-dynamics-and-control-i-spring-2005/f5e18d0a075bb17a92b4522ea9056780_maglevthesis.pdf
 file_type: application/pdf
+learning_resource_types: []
+ocw_type: OCWFile
+parent_title: Study Materials
+parent_type: CourseSection
 resourcetype: Document
 title: maglevthesis.pdf
 uid: f5e18d0a-075b-b17a-92b4-522ea9056780

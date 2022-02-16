@@ -1,12 +1,17 @@
 ---
 content_type: resource
 description: Figure 3. Circuit diagram of this lab. (Image by Prof. Trumper.)
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/2-003-modeling-dynamics-and-control-i-spring-2005/3b404744f30da58a6c652f251ce1f14e_lab4fig3.gif
+file: /media/courses/2-003-modeling-dynamics-and-control-i-spring-2005/3b404744f30da58a6c652f251ce1f14e_lab4fig3.gif
 file_type: image/gif
 image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+learning_resource_types:
+- Labs
+ocw_type: OCWImage
+parent_title: Labs
+parent_type: CourseSection
 resourcetype: Image
 title: lab4fig3.gif
 uid: 3b404744-f30d-a58a-6c65-2f251ce1f14e

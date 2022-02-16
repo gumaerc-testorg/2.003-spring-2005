@@ -1,6 +1,10 @@
 ---
 content_type: page
+learning_resource_types:
+- Labs
+ocw_type: CourseSection
 parent_title: Labs
+parent_type: CourseSection
 parent_uid: fbc55028-b2c1-01c5-c62c-62ab407df92b
 title: 'Lab 3: Translational 2nd-order Spring/Mass/Damper System; Natural Response;
   Fitting Models'

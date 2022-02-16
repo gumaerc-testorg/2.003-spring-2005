@@ -1,12 +1,16 @@
 ---
 content_type: resource
 description: Image of an equation related to the Nonlinear Control system.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/2-003-modeling-dynamics-and-control-i-spring-2005/a7a03e2ca97ce249e81292f0ab792e87_neq1.jpg
+file: /media/courses/2-003-modeling-dynamics-and-control-i-spring-2005/a7a03e2ca97ce249e81292f0ab792e87_neq1.jpg
 file_type: image/jpeg
 image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+learning_resource_types: []
+ocw_type: OCWImage
+parent_title: Study Materials
+parent_type: CourseSection
 resourcetype: Image
 title: neq1.jpg
 uid: a7a03e2c-a97c-e249-e812-92f0ab792e87

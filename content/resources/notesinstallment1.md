@@ -2,8 +2,13 @@
 content_type: resource
 description: This resource contains reading notes on finite-dimensional,lineartime-invariant(LTI)systems
   and First-order systems.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/2-003-modeling-dynamics-and-control-i-spring-2005/c2a4a0e8708c2c0d57d1d0c79d97f7aa_NotesInstallment1.pdf
+file: /media/courses/2-003-modeling-dynamics-and-control-i-spring-2005/c2a4a0e8708c2c0d57d1d0c79d97f7aa_NotesInstallment1.pdf
 file_type: application/pdf
+learning_resource_types:
+- Readings
+ocw_type: OCWFile
+parent_title: Readings
+parent_type: CourseSection
 resourcetype: Document
 title: NotesInstallment1.pdf
 uid: c2a4a0e8-708c-2c0d-57d1-d0c79d97f7aa

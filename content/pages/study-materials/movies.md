@@ -1,6 +1,9 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Study Materials
+parent_type: CourseSection
 parent_uid: a7a8f9ef-1f9b-6ce1-6418-f519b9fd5b7a
 title: Movies
 uid: a37c83c8-41e1-b04b-28e0-6d03e3f80462

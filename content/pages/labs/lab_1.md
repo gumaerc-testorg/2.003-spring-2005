@@ -1,6 +1,10 @@
 ---
 content_type: page
+learning_resource_types:
+- Labs
+ocw_type: CourseSection
 parent_title: Labs
+parent_type: CourseSection
 parent_uid: fbc55028-b2c1-01c5-c62c-62ab407df92b
 title: 'Lab 1: 1st-order Spring-damper System'
 uid: 1fe34132-8567-b551-5ff2-def1307cb122

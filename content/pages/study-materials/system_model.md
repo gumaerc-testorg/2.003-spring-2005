@@ -1,6 +1,9 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Study Materials
+parent_type: CourseSection
 parent_uid: a7a8f9ef-1f9b-6ce1-6418-f519b9fd5b7a
 title: System Model
 uid: 57dd520a-3a29-4286-6357-2d8872899351
@@ -20,7 +23,7 @@ As shown in the free body diagram above, two forces act on the steel ball: gravi
 
 Eq. M1.
 
-In the simplest model, Fm, the electromagnetic force, is proportional to the square of the current passing through the inductor and inversely proportional to the square of the distance between the magnet and the steel ball. The constant C is a function of the physical construction of the electromagnet.
+In the simplest model, F{{< sub "m" >}}, the electromagnetic force, is proportional to the square of the current passing through the inductor and inversely proportional to the square of the distance between the magnet and the steel ball. The constant C is a function of the physical construction of the electromagnet.
 
 ![Fm=C(i/x+x0)^2.](/courses/mechanical-engineering/2-003-modeling-dynamics-and-control-i-spring-2005/study-materials/meq2.jpg)
 

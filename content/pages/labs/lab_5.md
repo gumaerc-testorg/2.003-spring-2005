@@ -1,6 +1,10 @@
 ---
 content_type: page
+learning_resource_types:
+- Labs
+ocw_type: CourseSection
 parent_title: Labs
+parent_type: CourseSection
 parent_uid: fbc55028-b2c1-01c5-c62c-62ab407df92b
 title: 'Lab 5: 1st-order RC Circuits and 2nd-order LRC Circuit'
 uid: a63eefa4-7041-6a32-dcad-f6e9d7bf2ea6
