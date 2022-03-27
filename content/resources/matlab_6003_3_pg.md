@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Tools
 parent_type: CourseSection
+parent_uid: ab5e657e-697a-5c25-9c79-cf71c1832b66
 resourcetype: Document
 title: matlab_6003_3_pg.pdf
 uid: 891e22e3-1d83-04f8-59d2-39106dc09013

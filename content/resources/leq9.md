@@ -11,6 +11,7 @@ learning_resource_types: []
 ocw_type: OCWImage
 parent_title: Study Materials
 parent_type: CourseSection
+parent_uid: a7a8f9ef-1f9b-6ce1-6418-f519b9fd5b7a
 resourcetype: Image
 title: leq9.jpg
 uid: 0778d425-ef28-fd7e-f878-04596c4e0acb

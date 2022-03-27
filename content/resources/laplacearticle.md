@@ -8,6 +8,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Study Materials
 parent_type: CourseSection
+parent_uid: a7a8f9ef-1f9b-6ce1-6418-f519b9fd5b7a
 resourcetype: Document
 title: laplacearticle.pdf
 uid: eb8d1ae7-6301-33c1-15cd-95e3ac8b0875

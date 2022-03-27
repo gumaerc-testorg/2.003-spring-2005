@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: c0c74a27-643e-0447-a619-7fa62bdb82d1
 resourcetype: Document
 title: light_bulb.pdf
 uid: 1ea9369a-874a-440d-a53c-317682984eb6

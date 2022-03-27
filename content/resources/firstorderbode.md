@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
+parent_uid: 1e55bc20-ff0c-b48c-471a-7869a776e5ab
 resourcetype: Document
 title: firstorderbode.pdf
 uid: f6c1f1b1-43c6-8727-c937-f049c2cf539f

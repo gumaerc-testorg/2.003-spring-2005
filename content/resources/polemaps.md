@@ -11,6 +11,7 @@ learning_resource_types: []
 ocw_type: OCWImage
 parent_title: Study Materials
 parent_type: CourseSection
+parent_uid: a7a8f9ef-1f9b-6ce1-6418-f519b9fd5b7a
 resourcetype: Image
 title: polemaps.jpg
 uid: 1f7c27c8-4679-7892-3a67-ffb63795e3b8

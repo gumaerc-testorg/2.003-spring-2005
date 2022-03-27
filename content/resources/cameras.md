@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Labs
 parent_type: CourseSection
+parent_uid: fbc55028-b2c1-01c5-c62c-62ab407df92b
 resourcetype: Document
 title: cameras.pdf
 uid: 4cb44ce3-4ba8-dddb-2897-d64a215729b6

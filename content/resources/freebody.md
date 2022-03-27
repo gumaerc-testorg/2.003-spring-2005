@@ -11,6 +11,7 @@ learning_resource_types: []
 ocw_type: OCWImage
 parent_title: Study Materials
 parent_type: CourseSection
+parent_uid: a7a8f9ef-1f9b-6ce1-6418-f519b9fd5b7a
 resourcetype: Image
 title: freebody.jpg
 uid: 1fed5bbc-9b58-0829-1f31-05931483a39f

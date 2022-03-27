@@ -10,6 +10,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Labs
 parent_type: CourseSection
+parent_uid: fbc55028-b2c1-01c5-c62c-62ab407df92b
 resourcetype: Document
 title: prelab4.pdf
 uid: d0ab0a48-6cb5-97a0-df54-da1881953f2d

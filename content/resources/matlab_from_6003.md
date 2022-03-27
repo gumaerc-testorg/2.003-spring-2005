@@ -10,6 +10,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Tools
 parent_type: CourseSection
+parent_uid: ab5e657e-697a-5c25-9c79-cf71c1832b66
 resourcetype: Document
 title: matlab_from_6003.pdf
 uid: b6f3a9d5-e03a-ee4a-72b1-55bf08e0e40a

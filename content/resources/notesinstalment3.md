@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: fd74a1af-9b47-84c1-7602-5a1a51f36c12
 resourcetype: Document
 title: notesinstalment3.pdf
 uid: 96347b94-470d-97e7-7646-da0f8cbc3a1f

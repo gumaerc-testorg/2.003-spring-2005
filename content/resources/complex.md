@@ -8,6 +8,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Study Materials
 parent_type: CourseSection
+parent_uid: a7a8f9ef-1f9b-6ce1-6418-f519b9fd5b7a
 resourcetype: Document
 title: complex.pdf
 uid: a32be697-ab2a-8671-4a9b-2663eca0edae

@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Study Materials
 parent_type: CourseSection
+parent_uid: a7a8f9ef-1f9b-6ce1-6418-f519b9fd5b7a
 resourcetype: Document
 title: bodeexamples.pdf
 uid: 32022198-8fbc-4fea-e4fd-76c92bfdf66e

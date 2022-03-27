@@ -12,6 +12,7 @@ learning_resource_types:
 ocw_type: OCWImage
 parent_title: Labs
 parent_type: CourseSection
+parent_uid: fbc55028-b2c1-01c5-c62c-62ab407df92b
 resourcetype: Image
 title: labpolarplot.gif
 uid: 142248e6-4791-12b3-27b3-6a710d8f9ad6

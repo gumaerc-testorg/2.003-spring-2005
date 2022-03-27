@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
+parent_uid: 1e55bc20-ff0c-b48c-471a-7869a776e5ab
 resourcetype: Document
 title: addendum2.pdf
 uid: bbde9080-0250-f9c0-c1cd-1bc4e9c42981

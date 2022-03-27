@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Tools
 parent_type: CourseSection
+parent_uid: ab5e657e-697a-5c25-9c79-cf71c1832b66
 resourcetype: Document
 title: primer35.pdf
 uid: 273b4911-d385-2860-bf90-d4196c094f6d

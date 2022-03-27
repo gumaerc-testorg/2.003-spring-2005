@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: fd74a1af-9b47-84c1-7602-5a1a51f36c12
 resourcetype: Document
 title: NotesInstallment1.pdf
 uid: c2a4a0e8-708c-2c0d-57d1-d0c79d97f7aa
