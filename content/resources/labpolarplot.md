@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/2-003-modeling-dynamics-and-control-i-spring-2005/142248e6479112b327b36a710d8f9ad6_labpolarplot.gif
+file: /courses/2-003-modeling-dynamics-and-control-i-spring-2005/142248e6479112b327b36a710d8f9ad6_labpolarplot.gif
 file_type: image/gif
 image_metadata:
   caption: ''
@@ -16,4 +16,8 @@ parent_uid: fbc55028-b2c1-01c5-c62c-62ab407df92b
 resourcetype: Image
 title: labpolarplot.gif
 uid: 142248e6-4791-12b3-27b3-6a710d8f9ad6
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

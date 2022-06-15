@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource is a supporting Files for Light Bulb Problem.
-file: /media/courses/2-003-modeling-dynamics-and-control-i-spring-2005/e20754c276f740f68a525f480f430162_bulbfit.m
+file: /courses/2-003-modeling-dynamics-and-control-i-spring-2005/e20754c276f740f68a525f480f430162_bulbfit.m
 file_type: text/plain
 learning_resource_types:
 - Assignments
@@ -13,3 +13,5 @@ resourcetype: Other
 title: bulbfit.m
 uid: e20754c2-76f7-40f6-8a52-5f480f430162
 ---
+This resource is a supporting Files for Light Bulb Problem.
+

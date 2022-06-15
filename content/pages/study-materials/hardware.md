@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: ''
 learning_resource_types: []
 ocw_type: CourseSection
 parent_title: Study Materials
@@ -7,20 +8,24 @@ parent_type: CourseSection
 parent_uid: a7a8f9ef-1f9b-6ce1-6418-f519b9fd5b7a
 title: Hardware
 uid: 7772984a-0715-ec47-488a-c34f735f05c9
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
-[Main]({{< baseurl >}}/pages/study-materials/main) | Hardware | [System Model]({{< baseurl >}}/pages/study-materials/system_model) | [Linearized Control]({{< baseurl >}}/pages/study-materials/linear_control) | [Nonlinear Control]({{< baseurl >}}/pages/study-materials/nonlinear_cont) | [Movies]({{< baseurl >}}/pages/study-materials/movies) | [Technical Details]({{< baseurl >}}/pages/study-materials/tech_details) | [Credits]({{< baseurl >}}/pages/study-materials/credits)
+{{% resource_link 96318087-6dc8-d015-eabe-0265173b1d36 "Main" %}} | Hardware | {{% resource_link 57dd520a-3a29-4286-6357-2d8872899351 "System Model" %}} | {{% resource_link 80cbfe73-1932-d102-278f-8a2130fc3b1e "Linearized Control" %}} | {{% resource_link 73744b95-66b8-8de0-1f15-daae37af3278 "Nonlinear Control" %}} | {{% resource_link a37c83c8-41e1-b04b-28e0-6d03e3f80462 "Movies" %}} | {{% resource_link bfdd131f-a0a4-3b0e-5c4d-8f39f6779574 "Technical Details" %}} | {{% resource_link 78238558-c617-c260-7a01-172fb0765a81 "Credits" %}}
 
 The two major sections of the Levitator are the plant/sensor structure and the electronics and computer which control the structure.
 
 Plant
 -----
 
-![Photograph of suspended ball.](/courses/mechanical-engineering/2-003-modeling-dynamics-and-control-i-spring-2005/study-materials/ball_suspended2.jpg)
+{{< resource "51cf2445-8958-d508-6a5c-df39c8231dde" >}}
 
 Levitator in action (above) and its schematic representation (below).
 
-![Alternate schematic.](/courses/mechanical-engineering/2-003-modeling-dynamics-and-control-i-spring-2005/study-materials/basic_physical.jpg)
+{{< resource "c745922d-2b56-c5aa-4b79-aa4317b979f4" >}}
 
 The plant consists of the actuator, an iron-core electromagnet and the steel ball bearing levitated by the electromagnet, along with the sensor that sends position to the control circuitry.
 
@@ -31,16 +36,16 @@ To control the position of the ball, the control electronics need to know the ac
 Control Electronics
 -------------------
 
-![Control circuitry, with the plant structure.](/courses/mechanical-engineering/2-003-modeling-dynamics-and-control-i-spring-2005/study-materials/system_group.jpg)
+{{< resource "9dc1a7fa-9388-95fb-14c0-d78c4855eb27" >}}
 
 Control circuitry, with the plant structure.
 
 The control circuitry consists of a set of power supplies and amplifiers connected to a control computer. The control computer is a dedicated digital signal processor (DSP), programmed through the laptop. The power supplies and amplifiers receive the signal from the position sensor and send power to the actuator. An input/output box wired to the analog to digital and digital to analog converters on the computer allows the power electronics and the computer to talk to one another. In the photograph above, the ball rests on a micrometer/force measurement apparatus used in calibrating the system.
 
-![Interior of control box.](/courses/mechanical-engineering/2-003-modeling-dynamics-and-control-i-spring-2005/study-materials/box_photo.jpg)
+{{< resource "3cda07b0-1c0b-6126-c45a-68a89bba61dd" >}}
 
 The power electronics box.
 
 Combining the plant and control electronics, the schematic for the whole system is:
 
-![schematic.](/courses/mechanical-engineering/2-003-modeling-dynamics-and-control-i-spring-2005/study-materials/systemschematic.jpg)
+{{< resource "5344ad53-4e9a-b158-7f14-9ceca4b14490" >}}
