@@ -7,6 +7,7 @@ file: /courses/2-003-modeling-dynamics-and-control-i-spring-2005/09575df77d29d8f
 file_type: application/pdf
 learning_resource_types:
 - Exams
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
@@ -20,4 +21,3 @@ video_metadata:
   youtube_id: null
 ---
 This resource contains the review for quiz 3 on circuits and the impedance method, Mechanically equivalent circuits, method to make (or analyze) a Bode plot and associated circuit diagrams.
-

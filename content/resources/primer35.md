@@ -5,6 +5,7 @@ file: /courses/2-003-modeling-dynamics-and-control-i-spring-2005/273b4911d385286
 file_type: application/pdf
 learning_resource_types:
 - Tools
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Tools
 parent_type: CourseSection

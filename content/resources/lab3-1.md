@@ -5,6 +5,7 @@ file: /courses/2-003-modeling-dynamics-and-control-i-spring-2005/b3fbae526bb9512
 file_type: application/zip
 learning_resource_types:
 - Labs
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Labs
 parent_type: CourseSection

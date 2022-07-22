@@ -9,6 +9,7 @@ file: /courses/2-003-modeling-dynamics-and-control-i-spring-2005/f8e7d07a48d1533
 file_type: application/pdf
 learning_resource_types:
 - Labs
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Labs
 parent_type: CourseSection
@@ -22,4 +23,3 @@ video_metadata:
   youtube_id: null
 ---
 This resource contains information on "The Chart Recorder: Background Information" and instruction and exercise on Calibrating the speed measurement, Eddy-Current Damping, Free-response of a First order System, Free Response with More Damping, Driven response of a first order system, More Driven Response, Free response with no Damping, and lab report.
-

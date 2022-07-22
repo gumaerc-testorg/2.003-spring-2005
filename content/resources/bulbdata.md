@@ -5,6 +5,7 @@ file: /courses/2-003-modeling-dynamics-and-control-i-spring-2005/58f79bb4e0f3d28
 file_type: text/plain
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: bulbdata.m
 uid: 58f79bb4-e0f3-d284-556a-6c1041fe32f8
 ---
 This resource is a supporting File for Light Bulb Problem.
-

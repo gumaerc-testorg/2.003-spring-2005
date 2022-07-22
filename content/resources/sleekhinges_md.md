@@ -5,6 +5,7 @@ description: This resource contains information on Sleek design hinge on strong 
 file: /courses/2-003-modeling-dynamics-and-control-i-spring-2005/06c5df3a795a0969f32d878a94743b30_sleekhinges_md.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Study Materials
 parent_type: CourseSection
@@ -18,4 +19,3 @@ video_metadata:
   youtube_id: null
 ---
 This resource contains information on Sleek design hinge on strong rotary joins.
-

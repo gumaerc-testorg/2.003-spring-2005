@@ -5,6 +5,7 @@ file: /courses/2-003-modeling-dynamics-and-control-i-spring-2005/1ea9369a874a440
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -18,4 +19,3 @@ video_metadata:
   youtube_id: null
 ---
 This resource contains one problem on Light Bulb Temperature
-

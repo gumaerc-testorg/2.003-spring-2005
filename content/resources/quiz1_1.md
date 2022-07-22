@@ -6,6 +6,7 @@ file: /courses/2-003-modeling-dynamics-and-control-i-spring-2005/855418b03814f1b
 file_type: application/pdf
 learning_resource_types:
 - Exams
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
@@ -19,4 +20,3 @@ video_metadata:
   youtube_id: null
 ---
 This quiz has three problems. The numerical weighting of each problem is identical. The quiz is closed-book. The problems concerns the second-order response.
-

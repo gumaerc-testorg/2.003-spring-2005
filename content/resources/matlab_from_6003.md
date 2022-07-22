@@ -7,6 +7,7 @@ file: /courses/2-003-modeling-dynamics-and-control-i-spring-2005/b6f3a9d5e03aee4
 file_type: application/pdf
 learning_resource_types:
 - Tools
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Tools
 parent_type: CourseSection
@@ -20,4 +21,3 @@ video_metadata:
   youtube_id: null
 ---
 This resource contains introduction, how to get help from Within MATLAB, MATLAB Variables - Scalars, Vectors, and Matrices, Matrix Operations, MATLAB Files, Plotting, Signals and Systems Commands, Examples of Usage and acknowledgment.
-

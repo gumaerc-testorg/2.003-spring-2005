@@ -5,6 +5,7 @@ description: This resource contains information on Complex Numbers, Euler?s Iden
 file: /courses/2-003-modeling-dynamics-and-control-i-spring-2005/a32be697ab2a86714a9b2663eca0edae_complex.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Study Materials
 parent_type: CourseSection
@@ -18,4 +19,3 @@ video_metadata:
   youtube_id: null
 ---
 This resource contains information on Complex Numbers, Euler?s Identity, Complex Exponentials, Effect of Pole Position.
-

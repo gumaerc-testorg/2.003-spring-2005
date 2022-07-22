@@ -7,6 +7,7 @@ file: /courses/2-003-modeling-dynamics-and-control-i-spring-2005/dd40cc4ef76a2a7
 file_type: application/pdf
 learning_resource_types:
 - Labs
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Labs
 parent_type: CourseSection
@@ -20,4 +21,3 @@ video_metadata:
   youtube_id: null
 ---
 This resource contains lab description on (Idealized spring - damper system, two screen door closing mechanisms and compare their behaviors with that of the idealized springdamper system and some questions associated with the session.
-

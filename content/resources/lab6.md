@@ -7,6 +7,7 @@ file: /courses/2-003-modeling-dynamics-and-control-i-spring-2005/ac60b078779b2fc
 file_type: application/pdf
 learning_resource_types:
 - Labs
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Labs
 parent_type: CourseSection
@@ -20,4 +21,3 @@ video_metadata:
   youtube_id: null
 ---
 This resource focuses on second-order electrical circuits, which contain inductors, resistors and capacitors. By measuring the step and frequency responses, the transfer functions can be determined.
-

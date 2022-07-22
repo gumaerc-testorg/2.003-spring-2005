@@ -5,6 +5,7 @@ file: /courses/2-003-modeling-dynamics-and-control-i-spring-2005/4cb44ce34ba8ddd
 file_type: application/pdf
 learning_resource_types:
 - Labs
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Labs
 parent_type: CourseSection
@@ -18,4 +19,3 @@ video_metadata:
   youtube_id: null
 ---
 This resource contains the instructions on how to set up a digital camera.
-

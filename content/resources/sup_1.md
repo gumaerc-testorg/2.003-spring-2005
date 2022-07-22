@@ -6,6 +6,7 @@ file: /courses/2-003-modeling-dynamics-and-control-i-spring-2005/d3ad308d892b016
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -19,4 +20,3 @@ video_metadata:
   youtube_id: null
 ---
 This resource contains the supplemental problem for the first assignment of the course.
-

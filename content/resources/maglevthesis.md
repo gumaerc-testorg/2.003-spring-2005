@@ -4,6 +4,7 @@ description: ''
 file: /courses/2-003-modeling-dynamics-and-control-i-spring-2005/f5e18d0a075bb17a92b4522ea9056780_maglevthesis.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Study Materials
 parent_type: CourseSection

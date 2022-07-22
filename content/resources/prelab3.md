@@ -6,6 +6,7 @@ file: /courses/2-003-modeling-dynamics-and-control-i-spring-2005/bc9e16c5a13462a
 file_type: application/pdf
 learning_resource_types:
 - Labs
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Labs
 parent_type: CourseSection
@@ -19,4 +20,3 @@ video_metadata:
   youtube_id: null
 ---
 In this lab, we will examine the dynamics of a second-order system composed of a spring, mass, and damper as shown below.
-

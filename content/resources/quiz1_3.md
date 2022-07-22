@@ -7,6 +7,7 @@ file: /courses/2-003-modeling-dynamics-and-control-i-spring-2005/abfa2a1476349f5
 file_type: application/pdf
 learning_resource_types:
 - Exams
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
@@ -20,4 +21,3 @@ video_metadata:
   youtube_id: null
 ---
 This resource contains problems on differential equation for the deflection of the springs, damping ratio of the mass-spring-damper system when the fender is in contact with the barrier etc.
-

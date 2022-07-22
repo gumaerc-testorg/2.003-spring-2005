@@ -5,6 +5,7 @@ description: 'This resource contains information on Troubles at the Origin: Cons
 file: /courses/2-003-modeling-dynamics-and-control-i-spring-2005/eb8d1ae7630133c115cd95e3ac8b0875_laplacearticle.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Study Materials
 parent_type: CourseSection
@@ -18,4 +19,3 @@ video_metadata:
   youtube_id: null
 ---
 This resource contains information on Troubles at the Origin: Consistent Usage and Properties of the Unilateral Laplace Transform and examples for it.
-

@@ -9,6 +9,7 @@ file: /courses/2-003-modeling-dynamics-and-control-i-spring-2005/e4de6949234a419
 file_type: application/pdf
 learning_resource_types:
 - Labs
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Labs
 parent_type: CourseSection
@@ -23,4 +24,3 @@ video_metadata:
 ---
 This resource contains exercise  that demonstrates some basic MATLAB commands for creating and plotting vectors and matrices of data and in this lab we will measure the time constant of a firstorder springdamper
 and then use this value to estimate the magnitude of the damping.
-
