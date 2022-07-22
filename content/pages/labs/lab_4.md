@@ -1,29 +1,38 @@
 ---
 content_type: page
+description: ''
+learning_resource_types:
+- Labs
+ocw_type: CourseSection
 parent_title: Labs
+parent_type: CourseSection
 parent_uid: fbc55028-b2c1-01c5-c62c-62ab407df92b
 title: 'Lab 4: Driven Response of Translational 2nd-order Spring/Mass/Damper System;
   Step Response'
 uid: 665f5da6-5550-e6d6-d7f3-1c408e2fac09
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
-Pre-Lab ([PDF]({{< baseurl >}}/resources/prelab4))
+Pre-Lab ({{% resource_link d0ab0a48-6cb5-97a0-df54-da1881953f2d "PDF" %}})
 
 In Lab 4, we will use the same system that we studied in Lab 3. The objective of this lab is to observe the driven step response of a second order system and to tune the system's parameters to obtain a desired behavior. This can be done by adjusting the length of the spring rod and thereby changing the stiffness of the system. The voice coil that was short circuited in Lab 3 is used to supply the input force. A function generator and power amplifier provide a step in voltage to the voice coil, which results in a step in force on the shaft. The damping is fixed at the short-circuit value of Lab 3.
 
-![Idealization: spring, mass, damper with step force input.](/courses/mechanical-engineering/2-003-modeling-dynamics-and-control-i-spring-2005/labs/lab4fig1.gif)
+{{< resource "93e64a3c-e653-284c-9a76-c6a1a0bf5afb" >}}
 
 Figure 1. Idealization: spring, mass, damper with step force input. (Image by Prof. Trumper.)
 
 Figure 2: The power amplifier is an Apex PA21 power op-amp in their EK21 evaluation kit.
 
-![The power amplifier.](/courses/mechanical-engineering/2-003-modeling-dynamics-and-control-i-spring-2005/labs/lab4fig2.jpg)
+{{< resource "9d889fde-f303-2baf-8fe6-e580cbbb9f05" >}}
 
 Figure 2. The power amplifier is an Apex PA21 power op-amp in their EK21 evaluation kit. (Image by Prof. Trumper.)
 
 Figure 3 shows a circuit diagram of this lab.
 
-![Circuit diagram of this lab.](/courses/mechanical-engineering/2-003-modeling-dynamics-and-control-i-spring-2005/labs/lab4fig3.gif)
+{{< resource "3b404744-f30d-a58a-6c65-2f251ce1f14e" >}}
 
 Figure 3. Circuit diagram of this lab. (Image by Prof. Trumper.)
 

@@ -1,7 +1,15 @@
 ---
 content_type: page
+description: This section gives information on  text, recitations, laboratory sessions,
+  homework, quizzes, final exam, grading policy and collaboration policy
+learning_resource_types: []
+ocw_type: CourseSection
 title: Syllabus
 uid: 4263c1bd-0707-cf4a-a4a5-00a09d22e601
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
 Course Meeting Times

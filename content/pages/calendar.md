@@ -1,7 +1,15 @@
 ---
 content_type: page
+description: This section gives the course schedule for entire class along with the
+  lecture and lab topics.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Calendar
 uid: 6be28d0a-a288-774f-8a16-dc406b1af917
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
 {{< tableopen >}}
