@@ -3,6 +3,7 @@ content_type: resource
 description: This resource contains notes on Operational Amplifiers, supporting equations
   and block diagrams for the sme.
 file: /courses/2-003-modeling-dynamics-and-control-i-spring-2005/34129b0730f6f757ac01ddfd07710752_opampsnotes.pdf
+file_size: 690888
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

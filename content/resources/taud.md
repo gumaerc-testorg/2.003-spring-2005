@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/2-003-modeling-dynamics-and-control-i-spring-2005/460536cf7a8b58c98af55db5b18a7060_taud.jpg
+file_size: 8533
 file_type: image/jpeg
 image_metadata:
   caption: ''

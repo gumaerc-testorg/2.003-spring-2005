@@ -2,6 +2,7 @@
 content_type: resource
 description: Figure 3. Air dashpot without rubber coating. (Image by Prof. Trumper.)
 file: /courses/2-003-modeling-dynamics-and-control-i-spring-2005/bdb9e1d356cb1fb4d586d9ef79944151_lab1fig3.jpg
+file_size: 20539
 file_type: image/jpeg
 image_metadata:
   caption: ''

@@ -3,6 +3,7 @@ content_type: resource
 description: This resource contains solutions for 4 problems on RLC circuit analysis,
   transfer function.
 file: /courses/2-003-modeling-dynamics-and-control-i-spring-2005/dd20d5b4fa410f8fef39722d6be67fef_sample2.pdf
+file_size: 124552
 file_type: application/pdf
 learning_resource_types:
 - Exams

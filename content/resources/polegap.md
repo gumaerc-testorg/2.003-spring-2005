@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/2-003-modeling-dynamics-and-control-i-spring-2005/08e3758a6eb952e5626372aa011c7483_polegap.jpg
+file_size: 23522
 file_type: image/jpeg
 image_metadata:
   caption: ''

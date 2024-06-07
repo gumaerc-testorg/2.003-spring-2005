@@ -4,6 +4,7 @@ description: This resource focuses on second-order electrical circuits, which co
   inductors, resistors and capacitors. By measuring the step and frequency responses,
   the transfer functions can be determined.
 file: /courses/2-003-modeling-dynamics-and-control-i-spring-2005/ac60b078779b2fce18d5740c0e167f9f_lab6.pdf
+file_size: 56459
 file_type: application/pdf
 learning_resource_types:
 - Labs

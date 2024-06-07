@@ -6,6 +6,7 @@ description: 'This resource contains information on "The Chart Recorder: Backgro
   More Damping, Driven response of a first order system, More Driven Response, Free
   response with no Damping, and lab report.'
 file: /courses/2-003-modeling-dynamics-and-control-i-spring-2005/f8e7d07a48d15330cbae3302cf858dec_lab2.pdf
+file_size: 541343
 file_type: application/pdf
 learning_resource_types:
 - Labs

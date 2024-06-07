@@ -4,6 +4,7 @@ description: This resource contains the review for quiz 3 on circuits and the im
   method, Mechanically equivalent circuits, method to make (or analyze) a Bode plot
   and associated circuit diagrams.
 file: /courses/2-003-modeling-dynamics-and-control-i-spring-2005/09575df77d29d8ff81045d38c9ccd852_quiz3rev.pdf
+file_size: 193942
 file_type: application/pdf
 learning_resource_types:
 - Exams

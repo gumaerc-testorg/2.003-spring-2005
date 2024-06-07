@@ -4,6 +4,7 @@ description: This resource contains introduction, how to get help from Within MA
   MATLAB Variables - Scalars, Vectors, and Matrices, Matrix Operations, MATLAB Files,
   Plotting, Signals and Systems Commands, Examples of Usage and acknowledgment.
 file: /courses/2-003-modeling-dynamics-and-control-i-spring-2005/b6f3a9d5e03aee4a72b155bf08e0e40a_matlab_from_6003.pdf
+file_size: 175106
 file_type: application/pdf
 learning_resource_types:
 - Tools

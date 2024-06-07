@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/2-003-modeling-dynamics-and-control-i-spring-2005/00fc35b0c24060ab59327deb807b9e18_ball_suspended.jpg
+file_size: 163062
 file_type: image/jpeg
 image_metadata:
   caption: ''

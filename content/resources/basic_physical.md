@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/2-003-modeling-dynamics-and-control-i-spring-2005/c745922d2b56c5aa4b79aa4317b979f4_basic_physical.jpg
+file_size: 39468
 file_type: image/jpeg
 image_metadata:
   caption: ''
