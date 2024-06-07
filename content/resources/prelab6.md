@@ -4,6 +4,7 @@ description: This resource contains informatin on the purpose of this lab which 
   to understand the response of a flywheel/damper system and the description of hardware
   to be used for this lab session.
 file: /courses/2-003-modeling-dynamics-and-control-i-spring-2005/fd2d2a59607f65acf53e3230fd71f5d0_prelab6.pdf
+file_size: 249055
 file_type: application/pdf
 learning_resource_types:
 - Labs

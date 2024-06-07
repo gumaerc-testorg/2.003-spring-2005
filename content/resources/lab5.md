@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/2-003-modeling-dynamics-and-control-i-spring-2005/e373c9b21cbe617f6202ab86b2ed40bc_lab5.zip
+file_size: 4236
 file_type: application/zip
 learning_resource_types:
 - Labs

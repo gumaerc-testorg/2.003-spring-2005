@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource is a supporting File for Light Bulb Problem.
 file: /courses/2-003-modeling-dynamics-and-control-i-spring-2005/58f79bb4e0f3d284556a6c1041fe32f8_bulbdata.m
+file_size: 3746
 file_type: text/plain
 learning_resource_types:
 - Assignments

@@ -2,6 +2,7 @@
 content_type: resource
 description: Figure 6. Underdamped impulse response. (Image by Prof. Trumper.)
 file: /courses/2-003-modeling-dynamics-and-control-i-spring-2005/86d4ff4f583eb23158557f898908863d_lab3fig6.jpg
+file_size: 34772
 file_type: image/jpeg
 image_metadata:
   caption: ''

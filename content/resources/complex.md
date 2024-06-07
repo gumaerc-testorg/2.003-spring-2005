@@ -3,6 +3,7 @@ content_type: resource
 description: This resource contains information on Complex Numbers, Euler?s Identity,
   Complex Exponentials, Effect of Pole Position.
 file: /courses/2-003-modeling-dynamics-and-control-i-spring-2005/a32be697ab2a86714a9b2663eca0edae_complex.pdf
+file_size: 183295
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

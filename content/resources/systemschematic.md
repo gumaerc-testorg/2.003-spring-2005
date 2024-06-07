@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/2-003-modeling-dynamics-and-control-i-spring-2005/5344ad534e9ab1587f149ceca4b14490_systemschematic.jpg
+file_size: 43623
 file_type: image/jpeg
 image_metadata:
   caption: ''

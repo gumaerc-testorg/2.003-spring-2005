@@ -3,6 +3,7 @@ content_type: resource
 description: This resource contains notes on transfer functions and supporting equations
   for the same.
 file: /courses/2-003-modeling-dynamics-and-control-i-spring-2005/4279e5532311c0efa85e51fd0fb344c1_transf_func_scan.pdf
+file_size: 217422
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
