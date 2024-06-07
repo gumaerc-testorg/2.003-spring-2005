@@ -2,6 +2,7 @@
 content_type: resource
 description: 'Figure 2. Idealization: spring and damper. (Image by Prof. Trumper.)'
 file: /courses/2-003-modeling-dynamics-and-control-i-spring-2005/1dfd6c084ac745103990be9fd81238a2_lab1fig2.gif
+file_size: 2157
 file_type: image/gif
 image_metadata:
   caption: ''

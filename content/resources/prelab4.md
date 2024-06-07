@@ -4,6 +4,7 @@ description: This resource will be examining the step response of the spring/mas
   system studied in Lab 3 and explanation on how to generate a new system model to
   use the voice coil motor to excite the system.
 file: /courses/2-003-modeling-dynamics-and-control-i-spring-2005/d0ab0a486cb597a0df54da1881953f2d_prelab4.pdf
+file_size: 99539
 file_type: application/pdf
 learning_resource_types:
 - Labs

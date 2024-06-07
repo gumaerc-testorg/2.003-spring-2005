@@ -3,6 +3,7 @@ content_type: resource
 description: Figure 4. A simple camera records the data as an animation on the screen.
   (Image by Prof. Trumper.)
 file: /courses/2-003-modeling-dynamics-and-control-i-spring-2005/4ea25e29eff0e189015994f36e3eac53_lab1fig4.jpg
+file_size: 28036
 file_type: image/jpeg
 image_metadata:
   caption: ''

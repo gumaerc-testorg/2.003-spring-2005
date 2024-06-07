@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/2-003-modeling-dynamics-and-control-i-spring-2005/1f7c27c8467978923a67ffb63795e3b8_polemaps.jpg
+file_size: 25099
 file_type: image/jpeg
 image_metadata:
   caption: ''

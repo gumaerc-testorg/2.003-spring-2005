@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource contains graphs plotted on Bode Plot of First Order System.
 file: /courses/2-003-modeling-dynamics-and-control-i-spring-2005/f6c1f1b143c68727c937f049c2cf539f_firstorderbode.pdf
+file_size: 65028
 file_type: application/pdf
 learning_resource_types:
 - Exams
