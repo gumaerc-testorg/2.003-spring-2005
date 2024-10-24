@@ -2,7 +2,7 @@
 content_type: resource
 description: 'Figure 6. Idealization: rotary damping and inertia. (Image by Prof.
   Trumper.)'
-file: /courses/2-003-modeling-dynamics-and-control-i-spring-2005/a0cb8dc6bb026a1fe4685d488f53f549_lab2fig6.jpg
+file: /ol-ocw-studio-app/courses/2-003-modeling-dynamics-and-control-i-spring-2005/a0cb8dc6bb026a1fe4685d488f53f549_lab2fig6.jpg
 file_size: 39363
 file_type: image/jpeg
 image_metadata:

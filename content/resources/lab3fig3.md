@@ -2,7 +2,7 @@
 content_type: resource
 description: Figure 3. A Brass ring can be added to increase the inertia. (Image by
   Prof. Trumper.)
-file: /courses/2-003-modeling-dynamics-and-control-i-spring-2005/11dad6d1583edf92db3c2d0b2a31edb3_lab3fig3.gif
+file: /ol-ocw-studio-app/courses/2-003-modeling-dynamics-and-control-i-spring-2005/11dad6d1583edf92db3c2d0b2a31edb3_lab3fig3.gif
 file_size: 3757
 file_type: image/gif
 image_metadata:
