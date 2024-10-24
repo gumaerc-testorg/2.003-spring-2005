@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Figure 2. Drawing of the first-order rotary system. (Image by Prof. Trumper.)
-file: /courses/2-003-modeling-dynamics-and-control-i-spring-2005/82f009507fbcd9dffef3fb2886af64b2_lab2fig2.gif
+file: /ol-ocw-studio-app/courses/2-003-modeling-dynamics-and-control-i-spring-2005/82f009507fbcd9dffef3fb2886af64b2_lab2fig2.gif
 file_size: 8017
 file_type: image/gif
 image_metadata:

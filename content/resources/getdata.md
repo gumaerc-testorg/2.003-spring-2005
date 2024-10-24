@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains getdata* family of functions for MATLAB to help
   plot the measured system response and to help verify the system pole locations.
-file: /courses/2-003-modeling-dynamics-and-control-i-spring-2005/78f6d2885dfb620cac3c49cc22822795_getdata.pdf
+file: /ol-ocw-studio-app/courses/2-003-modeling-dynamics-and-control-i-spring-2005/78f6d2885dfb620cac3c49cc22822795_getdata.pdf
 file_size: 42147
 file_type: application/pdf
 learning_resource_types:

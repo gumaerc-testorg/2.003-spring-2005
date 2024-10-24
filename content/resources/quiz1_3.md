@@ -3,7 +3,7 @@ content_type: resource
 description: This resource contains problems on differential equation for the deflection
   of the springs, damping ratio of the mass-spring-damper system when the fender is
   in contact with the barrier etc.
-file: /courses/2-003-modeling-dynamics-and-control-i-spring-2005/abfa2a1476349f582c6022f29db93d59_quiz1_3.pdf
+file: /ol-ocw-studio-app/courses/2-003-modeling-dynamics-and-control-i-spring-2005/abfa2a1476349f582c6022f29db93d59_quiz1_3.pdf
 file_size: 49759
 file_type: application/pdf
 learning_resource_types:
