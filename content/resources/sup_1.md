@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains the supplemental problem for the first assignment
   of the course.
-file: /ol-ocw-studio-app/courses/2-003-modeling-dynamics-and-control-i-spring-2005/d3ad308d892b0167c1d07d5d0293e14f_sup_1.pdf
+file: /courses/2-003-modeling-dynamics-and-control-i-spring-2005/d3ad308d892b0167c1d07d5d0293e14f_sup_1.pdf
 file_size: 50028
 file_type: application/pdf
 learning_resource_types:

@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /ol-ocw-studio-app/courses/2-003-modeling-dynamics-and-control-i-spring-2005/7f5ca87da99fa9744dd078b1256e5621_leq3.jpg
+file: /courses/2-003-modeling-dynamics-and-control-i-spring-2005/7f5ca87da99fa9744dd078b1256e5621_leq3.jpg
 file_size: 20531
 file_type: image/jpeg
 image_metadata:

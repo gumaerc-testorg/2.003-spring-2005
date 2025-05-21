@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Figure 4. Close-up spring collar attachment. (Image by Prof. Trumper.)
-file: /ol-ocw-studio-app/courses/2-003-modeling-dynamics-and-control-i-spring-2005/6564277721b650eabdbf8b25814da615_lab3fig4.jpg
+file: /courses/2-003-modeling-dynamics-and-control-i-spring-2005/6564277721b650eabdbf8b25814da615_lab3fig4.jpg
 file_size: 31934
 file_type: image/jpeg
 image_metadata:
