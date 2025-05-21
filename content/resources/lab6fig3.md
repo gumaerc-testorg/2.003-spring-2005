@@ -2,7 +2,7 @@
 content_type: resource
 description: Figure 3. An op-amp buffer forces vb to be nearly equal to vi. (Image
   by Prof. Trumper.)
-file: /ol-ocw-studio-app/courses/2-003-modeling-dynamics-and-control-i-spring-2005/ed9148ee815f956199e092f61c1b2d33_lab6fig3.gif
+file: /courses/2-003-modeling-dynamics-and-control-i-spring-2005/ed9148ee815f956199e092f61c1b2d33_lab6fig3.gif
 file_size: 3274
 file_type: image/gif
 image_metadata:

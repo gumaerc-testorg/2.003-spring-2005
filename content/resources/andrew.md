@@ -3,7 +3,7 @@ content_type: resource
 description: This resource contains information on Standup and Stabilization of the
   Inverted Pendulum. It talks about Pendulum Cart Modeling and Dynamics, Apparatus
   used, Controller Design, Simulink Implementation and Recommendations.
-file: /ol-ocw-studio-app/courses/2-003-modeling-dynamics-and-control-i-spring-2005/115bcf750e9dcef4e5c933109caca454_andrew.pdf
+file: /courses/2-003-modeling-dynamics-and-control-i-spring-2005/115bcf750e9dcef4e5c933109caca454_andrew.pdf
 file_size: 1607880
 file_type: application/pdf
 learning_resource_types: []

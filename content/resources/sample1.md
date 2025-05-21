@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains problems on Mass Spring system with no damper,
   Transfer function from Bode plot, Input and Output waveform and its graph.
-file: /ol-ocw-studio-app/courses/2-003-modeling-dynamics-and-control-i-spring-2005/6d768a2369494dc3af2c0ae8d41b6b39_sample1.pdf
+file: /courses/2-003-modeling-dynamics-and-control-i-spring-2005/6d768a2369494dc3af2c0ae8d41b6b39_sample1.pdf
 file_size: 61430
 file_type: application/pdf
 learning_resource_types:

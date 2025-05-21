@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains the graph on Bode plot of Underdamped Second Order
   System
-file: /ol-ocw-studio-app/courses/2-003-modeling-dynamics-and-control-i-spring-2005/195f37d82d98cc12ea82ecb38a3a9fe6_secondorderbode.pdf
+file: /courses/2-003-modeling-dynamics-and-control-i-spring-2005/195f37d82d98cc12ea82ecb38a3a9fe6_secondorderbode.pdf
 file_size: 67344
 file_type: application/pdf
 learning_resource_types:

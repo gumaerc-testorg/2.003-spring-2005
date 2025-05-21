@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains the problems on writing differential equation
   when the force of the wind and viscous drag of the water effects the sails of ship.
-file: /ol-ocw-studio-app/courses/2-003-modeling-dynamics-and-control-i-spring-2005/ee0fd4bf22c6fe57ff6fae60e059afbf_quiz1_2.pdf
+file: /courses/2-003-modeling-dynamics-and-control-i-spring-2005/ee0fd4bf22c6fe57ff6fae60e059afbf_quiz1_2.pdf
 file_size: 44431
 file_type: application/pdf
 learning_resource_types:

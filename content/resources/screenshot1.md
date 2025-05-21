@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Figure 6. Video Demonstration. (Image by Prof. Trumper.)
-file: /ol-ocw-studio-app/courses/2-003-modeling-dynamics-and-control-i-spring-2005/592c607309989274e9712d3fdd5b4e8a_screenshot1.jpg
+file: /courses/2-003-modeling-dynamics-and-control-i-spring-2005/592c607309989274e9712d3fdd5b4e8a_screenshot1.jpg
 file_size: 22604
 file_type: image/jpeg
 image_metadata:

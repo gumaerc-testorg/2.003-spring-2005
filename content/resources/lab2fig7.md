@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Figure 7. Plot of angle vs. time. (Image by Prof. Trumper.)
-file: /ol-ocw-studio-app/courses/2-003-modeling-dynamics-and-control-i-spring-2005/9deef165ded985bac72ceb192e51639b_lab2fig7.gif
+file: /courses/2-003-modeling-dynamics-and-control-i-spring-2005/9deef165ded985bac72ceb192e51639b_lab2fig7.gif
 file_size: 6258
 file_type: image/gif
 image_metadata:

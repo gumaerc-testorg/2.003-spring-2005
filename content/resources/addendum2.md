@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains additional materials for problem set 2's solution.
-file: /ol-ocw-studio-app/courses/2-003-modeling-dynamics-and-control-i-spring-2005/bbde90800250f9c0c1cd1bc4e9c42981_addendum2.pdf
+file: /courses/2-003-modeling-dynamics-and-control-i-spring-2005/bbde90800250f9c0c1cd1bc4e9c42981_addendum2.pdf
 file_size: 8565
 file_type: application/pdf
 learning_resource_types:

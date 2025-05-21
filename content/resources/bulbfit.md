@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource is a supporting Files for Light Bulb Problem.
-file: /ol-ocw-studio-app/courses/2-003-modeling-dynamics-and-control-i-spring-2005/e20754c276f740f68a525f480f430162_bulbfit.m
+file: /courses/2-003-modeling-dynamics-and-control-i-spring-2005/e20754c276f740f68a525f480f430162_bulbfit.m
 file_size: 1212
 file_type: text/plain
 learning_resource_types:
