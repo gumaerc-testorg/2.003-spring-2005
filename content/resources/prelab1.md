@@ -5,7 +5,7 @@ description: 'This resource contains exercise  that demonstrates some basic MATL
   we will measure the time constant of a firstorder springdamper
 
   and then use this value to estimate the magnitude of the damping.'
-file: /ol-ocw-studio-app/courses/2-003-modeling-dynamics-and-control-i-spring-2005/e4de6949234a4190f3fafbfe0076b7cb_prelab1.pdf
+file: /courses/2-003-modeling-dynamics-and-control-i-spring-2005/e4de6949234a4190f3fafbfe0076b7cb_prelab1.pdf
 file_size: 522457
 file_type: application/pdf
 learning_resource_types:

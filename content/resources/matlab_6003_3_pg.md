@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /ol-ocw-studio-app/courses/2-003-modeling-dynamics-and-control-i-spring-2005/891e22e31d8304f859d239106dc09013_matlab_6003_3_pg.pdf
+file: /courses/2-003-modeling-dynamics-and-control-i-spring-2005/891e22e31d8304f859d239106dc09013_matlab_6003_3_pg.pdf
 file_size: 121838
 file_type: application/pdf
 learning_resource_types:

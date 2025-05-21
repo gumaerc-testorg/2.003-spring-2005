@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This reasource contains Example Bode plots and associated code.
-file: /ol-ocw-studio-app/courses/2-003-modeling-dynamics-and-control-i-spring-2005/320221988fbc4feae4fd76c92bfdf66e_bodeexamples.pdf
+file: /courses/2-003-modeling-dynamics-and-control-i-spring-2005/320221988fbc4feae4fd76c92bfdf66e_bodeexamples.pdf
 file_size: 623362
 file_type: application/pdf
 learning_resource_types: []

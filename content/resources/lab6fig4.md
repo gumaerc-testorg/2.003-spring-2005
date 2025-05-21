@@ -2,7 +2,7 @@
 content_type: resource
 description: Figure 4. A sine input shows the magnitude and phase shift at a certain
   frequency. (Image by Prof. Trumper.)
-file: /ol-ocw-studio-app/courses/2-003-modeling-dynamics-and-control-i-spring-2005/72090a40a6806f4d9191b5836e039ee5_lab6fig4.jpg
+file: /courses/2-003-modeling-dynamics-and-control-i-spring-2005/72090a40a6806f4d9191b5836e039ee5_lab6fig4.jpg
 file_size: 17708
 file_type: image/jpeg
 image_metadata:
