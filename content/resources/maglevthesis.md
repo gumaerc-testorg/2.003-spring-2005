@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /courses/2-003-modeling-dynamics-and-control-i-spring-2005/f5e18d0a075bb17a92b4522ea9056780_maglevthesis.pdf
+file: /ol-ocw-studio-app/courses/2-003-modeling-dynamics-and-control-i-spring-2005/f5e18d0a075bb17a92b4522ea9056780_maglevthesis.pdf
 file_size: 1301934
 file_type: application/pdf
 learning_resource_types: []

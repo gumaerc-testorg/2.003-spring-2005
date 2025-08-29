@@ -3,7 +3,7 @@ content_type: page
 description: This section contains the six lab sessions, pre-lab materials, lab materials
   and supporting materials for these lab sessions.
 learning_resource_types:
-- Labs
+- Laboratory Assignments
 ocw_type: CourseSection
 title: Labs
 uid: fbc55028-b2c1-01c5-c62c-62ab407df92b

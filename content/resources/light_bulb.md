@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains one problem on Light Bulb Temperature
-file: /courses/2-003-modeling-dynamics-and-control-i-spring-2005/1ea9369a874a440da53c317682984eb6_light_bulb.pdf
+file: /ol-ocw-studio-app/courses/2-003-modeling-dynamics-and-control-i-spring-2005/1ea9369a874a440da53c317682984eb6_light_bulb.pdf
 file_size: 38974
 file_type: application/pdf
 learning_resource_types:

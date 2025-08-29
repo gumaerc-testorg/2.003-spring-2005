@@ -2,11 +2,11 @@
 content_type: resource
 description: This resource contains a table to fill in the data for the lab session
   and instruction on how to fill the data.
-file: /courses/2-003-modeling-dynamics-and-control-i-spring-2005/9dbe80ba20023f624f29c63172ff5fd5_lab3.pdf
+file: /ol-ocw-studio-app/courses/2-003-modeling-dynamics-and-control-i-spring-2005/9dbe80ba20023f624f29c63172ff5fd5_lab3.pdf
 file_size: 65465
 file_type: application/pdf
 learning_resource_types:
-- Labs
+- Laboratory Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Labs
