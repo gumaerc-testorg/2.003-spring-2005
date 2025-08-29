@@ -2,7 +2,7 @@
 content_type: resource
 description: Figure 1. Examples of simple first order electrical circuits. (Image
   by Prof. Trumper.)
-file: /courses/2-003-modeling-dynamics-and-control-i-spring-2005/dbc81eb17f9c97fd7fce72628fa549b0_lab5fig1.gif
+file: /ol-ocw-studio-app/courses/2-003-modeling-dynamics-and-control-i-spring-2005/dbc81eb17f9c97fd7fce72628fa549b0_lab5fig1.gif
 file_size: 3176
 file_type: image/gif
 image_metadata:
@@ -10,7 +10,7 @@ image_metadata:
   credit: ''
   image-alt: ''
 learning_resource_types:
-- Labs
+- Laboratory Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Labs

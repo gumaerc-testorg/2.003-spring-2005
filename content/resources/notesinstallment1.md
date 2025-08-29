@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains reading notes on finite-dimensional,lineartime-invariant(LTI)systems
   and First-order systems.
-file: /courses/2-003-modeling-dynamics-and-control-i-spring-2005/c2a4a0e8708c2c0d57d1d0c79d97f7aa_NotesInstallment1.pdf
+file: /ol-ocw-studio-app/courses/2-003-modeling-dynamics-and-control-i-spring-2005/c2a4a0e8708c2c0d57d1d0c79d97f7aa_NotesInstallment1.pdf
 file_size: 705984
 file_type: application/pdf
 learning_resource_types:

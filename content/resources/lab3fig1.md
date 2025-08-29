@@ -2,7 +2,7 @@
 content_type: resource
 description: Figure 1. The second order system with voice-coil, air bearings, adjustable
   spring, shaft mass, and LVDT sensor. (Image by Prof. Trumper.)
-file: /courses/2-003-modeling-dynamics-and-control-i-spring-2005/3b40b703d67062c6efbf37a3b2f4996f_lab3fig1.jpg
+file: /ol-ocw-studio-app/courses/2-003-modeling-dynamics-and-control-i-spring-2005/3b40b703d67062c6efbf37a3b2f4996f_lab3fig1.jpg
 file_size: 44477
 file_type: image/jpeg
 image_metadata:
@@ -10,7 +10,7 @@ image_metadata:
   credit: ''
   image-alt: ''
 learning_resource_types:
-- Labs
+- Laboratory Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Labs

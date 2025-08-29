@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains soluions for problems related to initial and final
   value theorems.
-file: /courses/2-003-modeling-dynamics-and-control-i-spring-2005/49eb84bafa24714115ffd317d46f02e8_fin_sample_soln.pdf
+file: /ol-ocw-studio-app/courses/2-003-modeling-dynamics-and-control-i-spring-2005/49eb84bafa24714115ffd317d46f02e8_fin_sample_soln.pdf
 file_size: 75474
 file_type: application/pdf
 learning_resource_types:

@@ -2,7 +2,7 @@
 content_type: resource
 description: Figure 2. RLC circuit with internal resistances of the function generator
   and inductor. (Image by Prof. Trumper.)
-file: /courses/2-003-modeling-dynamics-and-control-i-spring-2005/9f0f4d997116fc6fcbb788aa968d881c_lab6fig2.gif
+file: /ol-ocw-studio-app/courses/2-003-modeling-dynamics-and-control-i-spring-2005/9f0f4d997116fc6fcbb788aa968d881c_lab6fig2.gif
 file_size: 2789
 file_type: image/gif
 image_metadata:
@@ -10,7 +10,7 @@ image_metadata:
   credit: ''
   image-alt: ''
 learning_resource_types:
-- Labs
+- Laboratory Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Labs

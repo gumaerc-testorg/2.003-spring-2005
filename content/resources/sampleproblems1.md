@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains problems on transfer functions, Bode plot of a
   certain system (for a chosen input and output)and associated diagrams.
-file: /courses/2-003-modeling-dynamics-and-control-i-spring-2005/051ec82f0f4b4b98ff9653cd980917e7_sampleproblems1.pdf
+file: /ol-ocw-studio-app/courses/2-003-modeling-dynamics-and-control-i-spring-2005/051ec82f0f4b4b98ff9653cd980917e7_sampleproblems1.pdf
 file_size: 237597
 file_type: application/pdf
 learning_resource_types:

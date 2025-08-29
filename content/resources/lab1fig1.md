@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'Figure 1. Idealization: spring and damper. (Image by Prof. Trumper.)'
-file: /courses/2-003-modeling-dynamics-and-control-i-spring-2005/7cf3bf0bc791df6687d52037f03cda88_lab1fig1.jpg
+file: /ol-ocw-studio-app/courses/2-003-modeling-dynamics-and-control-i-spring-2005/7cf3bf0bc791df6687d52037f03cda88_lab1fig1.jpg
 file_size: 24018
 file_type: image/jpeg
 image_metadata:
@@ -9,7 +9,7 @@ image_metadata:
   credit: ''
   image-alt: ''
 learning_resource_types:
-- Labs
+- Laboratory Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Labs
