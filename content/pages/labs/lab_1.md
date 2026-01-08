@@ -55,7 +55,7 @@ Figure 6. Video Demonstration. (Image by Prof. Trumper.)
 Materials and Notes: Practical Info and Comments
 ------------------------------------------------
 
-*   Airpot Precision Air Dashpot We use an adjustable glass dashpot that is covered with rubber to protect the user if it breaks. Model numbers we use are (2K)S95-A200 or (2K)S160-A200-F275 (603/382-4179). Look at the {{% resource_link "f80f95b7-4380-4b48-8109-e891537ccc93" "Web site" %}} of Airpot.
+*   Airpot Precision Air Dashpot We use an adjustable glass dashpot that is covered with rubber to protect the user if it breaks. Model numbers we use are (2K)S95-A200 or (2K)S160-A200-F275 (603/382-4179). Look at the [Web site](http://www.airpot.com/) of Airpot.
     
 *   Angle plates One of the angle plates is a mount for the dashpot, the other a mount and clamp for the spring cantilever. The 3X3X.375 inch angle plates were ordered from Pierce Aluminum. The drawings for these angle plates are: plate 1 and plate 2 (.tif files, use right mouse button and 'save as...').
     
@@ -68,8 +68,8 @@ Materials and Notes: Practical Info and Comments
     \- 18x24 inches, 1/4-20 on 1 inch centers: product number 145-1160  
     \- 457x610 mm, M6 on 25 mm centers: product number 145-1165  
       
-    Prices can be found {{% resource_link "eccdf280-6896-4312-a2a0-17fe07278d2a" "at their Web site" %}}. Go to >'Optical Bases'>'Baseplates'.
+    Prices can be found [at their Web site](http://www.optosigma.com/). Go to >'Optical Bases'>'Baseplates'.
     
 *   Stand Edmund Scientific, clamps for webcam mounting: VWR supply room
     
-*   Webcam Look at {{% resource_link "d5e5f89a-0c15-42ca-9038-905715b63695" "Winnov / Solutions" %}} for information about these cameras.
+*   Webcam Look at [Winnov / Solutions](http://www.winnov.com/) for information about these cameras.

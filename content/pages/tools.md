@@ -17,4 +17,4 @@ Below are some tools for this course:
 
 Introduction to MATLAB® at 6.003 ({{% resource_link b6f3a9d5-e03a-ee4a-72b1-55bf08e0e40a "PDF" %}})
 
-{{% resource_link "894c3771-617f-4789-a04f-623b6a580682" "MATLAB® Primer" %}}
+[MATLAB® Primer](http://math.ucsd.edu/~driver/21d-s99/matlab-primer.html)
