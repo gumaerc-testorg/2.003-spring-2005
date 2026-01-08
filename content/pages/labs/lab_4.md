@@ -64,6 +64,6 @@ _New_
 
 *   Amplifier The power amplifier is an Apex PA21 power op-amp in their EK21 evaluation kit.
     
-*   Power Supply Tektronix PS280 Power Supply, {{% resource_link "f9f58e3f-f4f7-4d29-898c-c9f9458362b9" "Tektronix" %}}.
+*   Power Supply Tektronix PS280 Power Supply, [Tektronix](http://www.tektronix.com/).
     
-*   Signal generator Tektronix CFG253 3 MHz Function Generator, {{% resource_link "f9f58e3f-f4f7-4d29-898c-c9f9458362b9" "Tektronix" %}}.
+*   Signal generator Tektronix CFG253 3 MHz Function Generator, [Tektronix](http://www.tektronix.com/).
